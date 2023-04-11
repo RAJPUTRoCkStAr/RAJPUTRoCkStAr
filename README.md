@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,RAJPUTRoCkStAr</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucifer626&label=Profile%20views&color=0e75b6&style=flat" alt="lucifer626" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fbearded-coder-hacker-vector-17477705&psig=AOvVaw1Jy4heXmfKw_2ItAEd8THF&ust=1681273809387000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiOw5T_oP4CFQAAAAAdAAAAABAG" alt="lucifer626" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucifer626" alt="lucifer626" /></a> </p>
 
