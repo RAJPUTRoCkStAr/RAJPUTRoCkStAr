@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **sumitsingh9441@gmail.com**
 
-- ⚡ Fun fact **I think I m alone when not coding**
+- ⚡ Fun fact **I think I m alone **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
