@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
-- 🌱 I’m currently learning **socket.io**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **sumitsingh9441@gmail.com**
 
