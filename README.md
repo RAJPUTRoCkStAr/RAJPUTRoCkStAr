@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full Stack developer as well as Python developer from India</h3>
 
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Djsngo**
 
 - 📫 How to reach me **sumitsingh9441@gmail.com**
 
