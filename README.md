@@ -1,5 +1,7 @@
 # 💫 About Me:
-### Hi there 👋, I'm RAJPUTRoCkStAr!<br><br>🌱 I’m currently diving into the world of Deep Learning.<br><br>👨‍💻 A passionate Full Stack and Python Developer from India.<br><br>📫 Reach me: sumitsingh9441@gmail.com<br><br>⚡ Fun fact: I enjoy coding so much that sometimes I feel like I'm in my own world of algorithms!<br><br>🚀 Always exploring new technologies and building cool projects.<br><br>🎨 Love creating clean, efficient, and user-friendly designs.<br><br>🌟 Open-source enthusiast and community contributor.<br><br>Let's connect and collaborate on exciting projects! 🤝
+### Hi there 👋, I'm RAJPUTRoCkStAr!<br><br>🌱 Currently delving into the fascinating world of Deep Learning.<br><br>👨‍💻 Passionate Full Stack Developer and Python Programmer based in India.<br><br>📫 You can reach me at: sumitsingh9441@gmail.com<br><br>⚡⚡ Fun Fact: I’m so passionate about coding that I often feel immersed in a world of algorithms.<br><br>🚀 🚀 Constantly exploring new technologies and building innovative, impactful projects.<br><br>🎨 Dedicated to creating clean, efficient, and user-friendly designs.<br><br>🌟 Enthusiastic supporter of open-source initiatives and active contributor to the tech community.<br><br>🤝 Always open to connecting, collaborating, and working on exciting projects.
+
+
 
 
 ## 🌐 Socials:
